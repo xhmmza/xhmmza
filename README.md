@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hamza</h1>
 <h3 align="center">Emerging Full Stack Developer with a deep passion for AI, ML, NLP, and Deep Learning. I thrive at the intersection of technology and innovation, building end-to-end applications that leverage cutting-edge AI to solve complex problems. Alongside mastering the latest in machine learning, I have a keen interest in Cybersecurity and Blockchain, exploring secure, decentralized solutions for the future. Let's code something incredible together! 🌐💻🔐</h3>
 
-<p align="left"> <a href="https://twitter.com/@aihmmzapy" target="blank"><img src="https://img.shields.io/twitter/follow/@aihmmzapy?logo=twitter&style=for-the-badge" alt="@aihmmzapy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@aihmmzapy" target="blank"><img src="https://img.shields.io/twitter/follow/@Aihmmzapy?logo=twitter&style=for-the-badge" alt="Aihmmzapy" /></a> </p>
 
 - 🌱 I’m currently learning **Numpy, DSA, Scikitlearn, Pandas**
 
